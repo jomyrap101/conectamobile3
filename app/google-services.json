@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "135673901586",
+    "firebase_url": "https://pruebanacional-f3bba-default-rtdb.firebaseio.com",
+    "project_id": "pruebanacional-f3bba",
+    "storage_bucket": "pruebanacional-f3bba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135673901586:android:b3831aa6f9b73e0a7a1ecb",
+        "android_client_info": {
+          "package_name": "com.ashencostha.mqtt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBUPXrsyQbxodd843pEAqh5m6QLaj1nCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135673901586:android:6d863e9b8e373cca7a1ecb",
+        "android_client_info": {
+          "package_name": "com.example.conectamobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBUPXrsyQbxodd843pEAqh5m6QLaj1nCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
